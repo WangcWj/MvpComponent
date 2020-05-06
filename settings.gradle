@@ -1,0 +1,2 @@
+include ':app', ':mvp_annotation', ':mvp_compiler', ':mvp_core'
+rootProject.name='MvpComponent'
